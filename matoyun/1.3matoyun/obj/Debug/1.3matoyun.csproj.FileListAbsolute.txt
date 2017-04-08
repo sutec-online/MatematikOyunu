@@ -1,0 +1,12 @@
+c:\users\kgn\documents\visual studio 2015\Projects\1.3matoyun\1.3matoyun\bin\Debug\1.3matoyun.exe.config
+C:\Users\KGN\documents\visual studio 2015\Projects\1.3matoyun\1.3matoyun\bin\Debug\1.3matoyun.exe
+C:\Users\KGN\documents\visual studio 2015\Projects\1.3matoyun\1.3matoyun\bin\Debug\1.3matoyun.pdb
+C:\Users\KGN\documents\visual studio 2015\Projects\1.3matoyun\1.3matoyun\obj\Debug\1.3matoyun.csprojResolveAssemblyReference.cache
+C:\Users\KGN\documents\visual studio 2015\Projects\1.3matoyun\1.3matoyun\obj\Debug\_1._3matoyun.Form1.resources
+C:\Users\KGN\documents\visual studio 2015\Projects\1.3matoyun\1.3matoyun\obj\Debug\_1._3matoyun.Properties.Resources.resources
+C:\Users\KGN\documents\visual studio 2015\Projects\1.3matoyun\1.3matoyun\obj\Debug\_1._3matoyun.SoruBlok.resources
+C:\Users\KGN\documents\visual studio 2015\Projects\1.3matoyun\1.3matoyun\obj\Debug\1.3matoyun.csproj.GenerateResource.Cache
+C:\Users\KGN\documents\visual studio 2015\Projects\1.3matoyun\1.3matoyun\obj\Debug\1.3matoyun.exe
+C:\Users\KGN\documents\visual studio 2015\Projects\1.3matoyun\1.3matoyun\obj\Debug\1.3matoyun.pdb
+C:\Users\KGN\documents\visual studio 2015\Projects\1.3matoyun\1.3matoyun\obj\Debug\_1._3matoyun.SkorForm.resources
+C:\Users\KGN\documents\visual studio 2015\Projects\1.3matoyun\1.3matoyun\obj\Debug\_1._3matoyun.HileForm.resources
